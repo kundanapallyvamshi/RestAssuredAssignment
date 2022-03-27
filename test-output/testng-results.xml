@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-27T12:30:25Z" name="Default suite" finished-at="2022-03-27T12:30:31Z" duration-ms="6474">
+    <groups>
+    </groups>
+    <test started-at="2022-03-27T12:30:25Z" name="Default test" finished-at="2022-03-27T12:30:31Z" duration-ms="6474">
+      <class name="RestTesting">
+        <test-method signature="test_delete_01()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:25Z" name="test_delete_01" finished-at="2022-03-27T12:30:27Z" duration-ms="2220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_delete_01 -->
+        <test-method signature="test_get_01()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:27Z" name="test_get_01" finished-at="2022-03-27T12:30:28Z" duration-ms="921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_get_01 -->
+        <test-method signature="test_get_02()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:28Z" name="test_get_02" finished-at="2022-03-27T12:30:28Z" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_get_02 -->
+        <test-method signature="test_get_03()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:28Z" name="test_get_03" finished-at="2022-03-27T12:30:28Z" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_get_03 -->
+        <test-method signature="test_get_usersList()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:28Z" name="test_get_usersList" finished-at="2022-03-27T12:30:28Z" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_get_usersList -->
+        <test-method signature="test_patch_01()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:28Z" name="test_patch_01" finished-at="2022-03-27T12:30:29Z" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_patch_01 -->
+        <test-method signature="test_post_01()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:29Z" name="test_post_01" finished-at="2022-03-27T12:30:29Z" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_post_01 -->
+        <test-method signature="test_post_create()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:29Z" name="test_post_create" finished-at="2022-03-27T12:30:30Z" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_post_create -->
+        <test-method signature="test_post_login()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:30Z" name="test_post_login" finished-at="2022-03-27T12:30:30Z" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_post_login -->
+        <test-method signature="test_post_register()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:30Z" name="test_post_register" finished-at="2022-03-27T12:30:31Z" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_post_register -->
+        <test-method signature="test_put_update()[pri:0, instance:RestTesting@37883b97]" started-at="2022-03-27T12:30:31Z" name="test_put_update" finished-at="2022-03-27T12:30:31Z" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_put_update -->
+      </class> <!-- RestTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
